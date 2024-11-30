@@ -1,3 +1,3 @@
 <?php
-echo "Hello from PHP on Vercel!";
-?>
+
+require __DIR__ . "/../public/index.php";
